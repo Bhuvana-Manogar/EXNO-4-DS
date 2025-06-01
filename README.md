@@ -24,9 +24,7 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-REG NO: 212224040268
 
-NAME  : RAMYA S
 ```
 import pandas as pd
 from scipy import stats
